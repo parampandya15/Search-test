@@ -1,0 +1,23 @@
+.searchbox {
+    position: relative;
+    width: fit-content;
+
+}
+
+.srch-input {
+    padding: 5px 26px 5px 5px;
+
+
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    bottom: 0;
+    /* left: 0; */
+    position: absolute;
+    right: 0;
+    padding: 5px;
+}
